@@ -12,8 +12,7 @@ Minhas habilidades técnicas são afiadas:
 
 ☁️ AWS: Sou proficiente na criação e implementação de serviços de nuvem da AWS, como EC2, S3, Lambda e outros, para garantir uma infraestrutura segura e escalável, e levar os projetos para o próximo nível de eficiência.
 
-### Minhas stacks:
-
+## Minhas stacks:
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -29,11 +28,8 @@ Minhas habilidades técnicas são afiadas:
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div></br>
   
-##
- 
-### Conheça minhas redes sociais:
-</br>
-  <a href="https://www.linkedin.com/in/icaro-albar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## Conheça minhas redes sociais:
+<a href="https://www.linkedin.com/in/icaro-albar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </br></br>
 
 📩 Sinta-se à vontade para me contactar via LinkedIn ou e-mail. Estou aberto a colaborações, projetos empolgantes e oportunidades de carreira empolgantes.
