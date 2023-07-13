@@ -30,7 +30,7 @@ Minhas habilidades técnicas são afiadas:
   
 ## 📸 Conheça minhas redes sociais:
 <a href="https://www.linkedin.com/in/icaro-albar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</br></br>
+</br>
 
 📩 Sinta-se à vontade para me contactar via LinkedIn ou e-mail. Estou aberto a colaborações, projetos empolgantes e oportunidades de carreira empolgantes.
 
